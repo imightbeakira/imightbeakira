@@ -1,4 +1,5 @@
 <div align="center">
+  
 # [Akira]
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=go+%7C+python+%7C+javascript;always+in+the+terminal;" alt="Typing SVG" />
